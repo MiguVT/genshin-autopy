@@ -89,4 +89,7 @@ if exist __main__.py (
 :END
 :: Deactivate the virtual environment
 call venv_genshin-autopy\Scripts\deactivate.bat
+
+
+echo "Finished, press enter to exit"
 pause
